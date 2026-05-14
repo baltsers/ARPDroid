@@ -1,0 +1,3 @@
+com.google.android.gms
+com.startapp.android.publish
+android.app.Activity
